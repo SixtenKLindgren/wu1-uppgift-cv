@@ -10,9 +10,10 @@ Jag ska göra en hemsida där "skills" delen av CV kommer var och sedan kommer j
 
 
 ## Log
-10-08: 
+08-10: 
     Jag har börjat göra en skiss av hur jag tänker att sidan kan se ut på papper och sedan på [Figma](https://www.figma.com/design/geXmXAKsvvBBCTDKPDH1MB/CV-Webutv?node-id=0-1&t=4Oduk69wzKXz2rx0-1). Nästa lektion måste jag börja med att skriva lite kod så att jag kan komma igång med hemsidan.
-
+09-10
+    Jag har börjat med sidan nu och har gjort nav bars and index sidan. Jag känner mig gankka klar med landing pagen och ska börja jobba på dem andra sidorna nästa gång. Jag har experimenterat mycket med css jag hade lite problem med att sätta kontakt infon längst ner i mitten men efter att ha gogglat runt så hittade en lösning men jag är inte helt säker på att jag förstår hur den funkar till 100%.
 
 
 
