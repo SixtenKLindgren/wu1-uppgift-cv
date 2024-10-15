@@ -28,6 +28,7 @@ a {
 }
 img {
     max-width: 100%;
+    aspect-ratio: 1;
 }
 nav {
     font-family: "Rubik", sans-serif;
@@ -53,4 +54,23 @@ nav {
     gap: 2rem;
     justify-content: center;
     color: #808080;
+}
+.experiences {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    margin-inline: auto;
+    gap: 1rem;
+    padding-top: 5rem;
+}
+.exp_img {
+    max-width: 125px;
+}
+.degree_img {
+    max-width: 400px;
+    padding-top: 2.5rem;
+}
+.speech {
+    font-weight: 500;
+    font-style: italic;
 }

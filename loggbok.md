@@ -18,6 +18,9 @@ Jag har börjat med sidan nu och har gjort nav bars and index sidan. Jag känner
 ### 10-14
 Jag har lagt till den responsiva logan i nav baren men jag är inte säker på hur man gör så att den funkar som en länk. Jag har också lagg till en backgrund på header vilket också har ett problem där backgrunden inte når hela vägen up som jag inte heller vet hur man fixar.  
 
+### 10-15
+Jag har gjort klart "experience sidan" och är nästan klar med "education" sidan.
+
 
 Sedan kan du skriva i loggform om vad du har arbetat med från planering och hur det har gått att arbeta med.
 
