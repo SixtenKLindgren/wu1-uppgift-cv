@@ -33,6 +33,9 @@ h2 {
 a {
     color: black;
 }
+.darkmode a {
+    color: #ffffff;
+}
 img {
     max-width: 100%;
     aspect-ratio: 1;
@@ -92,4 +95,11 @@ nav {
 .selected {
     background-color: #dcdcdc;
     border: 6px solid #dcdcdc;
+}
+.darkmode {
+    background-color: #191919;
+    color: #ffffff ;
+}
+.darkmode .footer {
+    color: #757575;
 }

@@ -11,7 +11,7 @@
 </head>
 <body>
     <main class="container">
-        <img src="/docs/images/logo_color.svg" alt="logo" width="25%">
+        <img id="logo" src="images/logo_color.svg" alt="logo" width="25%">
         <h1>Television host, Author, Musician, Actor and Educator</h1>
         <p>I have been hosting, acting, singing  and educating for over 60 years and with this experience I have become an experienced leader and know exactly how to manage a team and get everyone to work to their full potential. I am also a great public speaker and can convey what I want to say in an easy to understand way that does not make the content lower quality.</p>
         <nav>
@@ -28,6 +28,20 @@
             <li>Email: kermit.the.frog@muppets.disney.com</li>
             <li>Twitter: @KermitTheFrog</li>
         </ul>
+        <button onclick="myFunction()">Dark mode</button>
     </footer>
+    <script>
+    function myFunction() {
+        var element = document.body;
+        element.classList.toggle("darkmode");
+        const logo = document.querySelector("#logo")
+        console.log(logo.src.includes("color"))
+        if (logo.src.includes("color")) {
+            logo.src = "images/logo_dark_mode.svg"
+        } else {
+            logo.src = "images/logo_color.svg"
+        }
+    }
+    </script>
 </body>
 </html>
