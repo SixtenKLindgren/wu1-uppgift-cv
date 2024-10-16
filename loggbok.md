@@ -21,8 +21,11 @@ Jag har lagt till den responsiva logan i nav baren men jag är inte säker på h
 ### 10-15
 Jag har gjort klart "experience sidan" och är nästan klar med "education" sidan.
 
-### 10-16
-Jag har börjat jobba på refrences sidan och jag har kommit ganska långt jag tror inte att jag är helt klar dock eftersom att texten inte riktigt är formulerad som jag vill. Jag valde att använda samma class som för experiences sidan men jag kanske måste göra en ny klas för den här sidan.
+### 10-16 1
+Jag har börjat jobba på refrences sidan och jag har kommit ganska långt jag tror inte att jag är helt klar dock eftersom att texten inte riktigt är formaterad som jag vill. Jag valde att använda samma class som för experiences sidan men jag kanske måste göra en ny klas för den här sidan.
+
+### 10-16 2
+Jag har gjort en ny klass för refrences sidan och fixat formateringen på sidan.
 
 
 Sedan kan du skriva i loggform om vad du har arbetat med från planering och hur det har gått att arbeta med.
