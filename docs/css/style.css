@@ -53,6 +53,7 @@ nav {
     justify-content: center;
     background-color: #f5f5f5;
     margin-top: 0;
+    flex-wrap: wrap;
 }
 .vertical_nav {
     padding: 0;
@@ -65,6 +66,7 @@ nav {
     gap: 2rem;
     justify-content: center;
     color: #808080;
+    flex-wrap: wrap;
 }
 .experiences {
     display: flex;
