@@ -27,6 +27,12 @@ Jag har börjat jobba på refrences sidan och jag har kommit ganska långt jag t
 ### 10-16 2
 Jag har gjort en ny klass för refrences sidan och fixat formateringen på sidan.
 
+### Dokumentation 
+Det har gått bra att jobba med både CSS och HTML jag har lärt mig mycket nytt om både språken under uppgiften genom att jag har sökt upp lösningar till problem som jag stötter på. Jag har lärt mig många saker som kan använda för att formatera en hemsida på ett bra sätt.
+För att kunna skapa mer avancerade funktioner med HTML skulle jag behöva lära mig mer om java script med jag vet inte om det är nödvändigt för att skapa en bra hemsida.
+När jag validera min HTML så tyckte den att det var ett incorrect värde på bilderna eftersom att jag använda "width = 25%" då bytte jag ut det attributet med en class on skrev "width" i CSS itstället.
+
+
 
 Sedan kan du skriva i loggform om vad du har arbetat med från planering och hur det har gått att arbeta med.
 
